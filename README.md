@@ -3,8 +3,6 @@ Hi, I have made a project on Signature Forgery Detection using CNN, GhostNet, Me
 
 I used 3 different datasets from kaggle. There were consisted of more than 5000 files.
 
-I got overall accuracy of 89% in ConvNextTiny and 90% in GhostNet.
-
-If you are using the same datasets with different methodologies or different neural network models in Jupyter Notebook.
+I got overall accuracy of 90% in CNN, 91% in GhostNet, 91% in MesoNet and 91% in PeleeNet.
 
 Thank You.
