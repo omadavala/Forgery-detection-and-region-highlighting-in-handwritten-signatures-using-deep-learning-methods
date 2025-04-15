@@ -3,6 +3,4 @@ Hi, I have made a project on Signature Forgery Detection using CNN, GhostNet, Me
 
 I used 2 different datasets from kaggle. There were consisted of more than 4000 files.
 
-I got overall accuracy of 90% in CNN, 91% in GhostNet, 91% in MesoNet and 91% in PeleeNet.
-
 Thank You.
